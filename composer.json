@@ -1,5 +1,5 @@
 {
-    "name": "damianociarla/address-bundle",
+    "name": "gruppodigitouch/address-bundle",
     "description": "This Bundle provides functionality for managing address in Symfony2 applications",
     "type": "library",
     "keywords": [
@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=5.3.9",
-        "symfony/symfony": "2.7.*"
+        "symfony/symfony": ">=2.7.0"
     },
     "autoload": {
         "psr-0": { "DCS\\AddressBundle": "" }
