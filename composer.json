@@ -6,7 +6,7 @@
         "symfony2","select","country","region","city","address","geocoding","field","form"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/damianociarla/DCSAddressBundle",
+    "homepage": "https://github.com/gruppodigitouch/DCSAddressBundle",
     "authors": [
         {
             "name": "Damiano Ciarla",
